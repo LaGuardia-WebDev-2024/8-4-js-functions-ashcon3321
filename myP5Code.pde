@@ -26,7 +26,7 @@ var drawStar = function(){
   var starX = mouseX + random(-12,12);
   var starY = mouseY + random(-12,12);
   textSize(starSize);
-  text("⭐",starX, starY);
+  text("💟",starX, starY);
 };
 
 //🟡mouseClicked Function - will run when the mouse is clicked
